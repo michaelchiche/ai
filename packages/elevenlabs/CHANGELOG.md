@@ -1,5 +1,11 @@
 # @ai-sdk/elevenlabs
 
+## 1.0.9
+
+### Patch Changes
+
+- b5fda10: fix(provider/elevenlabs): `experimental_transcribe` fails with valid buffer`
+
 ## 1.0.8
 
 ### Patch Changes
